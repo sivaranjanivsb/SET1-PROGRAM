@@ -4,7 +4,7 @@ void main()
 int a[n],k,i,sum=0;
 printf(" enter the number");
 scanf("%d",&n);
-for(i=0;i<n;i+=)
+for(i=0;i<n;i++)
 {
 scanf("%d",&a[n]);
 }
