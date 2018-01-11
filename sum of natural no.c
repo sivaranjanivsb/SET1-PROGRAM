@@ -5,7 +5,7 @@ int i,n;
 int sum=0;
 printf("enter the limit");
 scanf("%d",&n);
-for(i=o;i<n;i++)
+for(i=1;i<=n;i++)
 {
 sum=sum+i;
 }
